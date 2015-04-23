@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FindHim</string>
+    <string name="show_track">显示轨迹</string>
+    <string name="hide_track">隐藏轨迹</string>
+    <string name="satellite_map">卫星地图</string>
+	<string name="fresh">刷新</string>
+    <string name="idtxthint">用户名</string>
+    <string name="pwdtxthint">密码</string>
+    <string name="loginbtntext">登录</string>
+    <string name="forgot_pwd">忘记密码？</string>
+    <string name="loading">正在登录</string>
+    <string name="forget_pwd_hint">请联系管理员: TEL 12345678</string>
+</resources>

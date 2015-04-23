@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/FindHimActionBar</item>
+    </style>
+
+    <style name="FindHimActionBar" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">#303537</item>
+        <item name="android:titleTextStyle">@style/FindHimActionBarTitleText</item>
+    </style>
+
+    <style name="FindHimActionBarTitleText" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#cfcfcf</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+</resources>

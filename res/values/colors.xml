@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="transparent">#7f000000</color>
+    <!-- 透明的 -->
+    <color name="white">#ffffff</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="green">#45c01a</color>
+    <color name="black">#000000</color>
+
+</resources>

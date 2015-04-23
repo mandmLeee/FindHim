@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" >
+    <GridView
+        android:id="@+id/gridView_show_track"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnWidth="100dip"
+        android:horizontalSpacing="25dip"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="25dip" >
+    </GridView>
+
+</LinearLayout>
